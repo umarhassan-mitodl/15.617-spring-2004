@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ]
+  ],
+  "legacy_uid": "4b6f1f42-7c2a-8c43-b3dc-320da27a13aa",
+  "instructors": {
+    "content": [
+      "779a7460-1655-e971-5032-d7043d6d0f78"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6ef80b77-6416-8646-26a8-e9182db8797c",
+    "website": "15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004"
+  },
+  "course_title": "The Law of Corporate Finance and Financial Markets",
+  "course_description": "Much of 15.617 focuses on mergers\u00a0and acquisitions (M&A),\u00a0and the law-sensitive aspects of financial services and financial markets. The course is designed to be an introduction to business law that covers the fundamentals, including contracts, liability, regulation, employment, and corporations. This class also provides an in-depth treatment of the law of finance.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.617",
+  "course_image_thumbnail": {
+    "content": "c41118a9-ab11-1b73-2fd5-1764d5052225",
+    "website": "15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "6ac6e8bc-1088-421b-b5c5-903c8bf3e9be",
+  "site_short_id": "15.617-spring-2004",
+  "site_url_path": "courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004",
+  "title": "Course Metadata"
+}
